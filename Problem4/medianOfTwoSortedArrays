@@ -39,6 +39,6 @@ public class Solution{
         int[] nums3 = {1,2};
         int[] nums4 = {3,4};
         median = solution.findMedianSortedArrays(nums3,nums4);
-        System.out.println(median); //Expected Output 2.5
+        System.out.println(median); //Expected Output 2.5 
     }
 }
