@@ -1,3 +1,6 @@
+/* Author: Caleb St.Germain
+ * Date: 5/23/2023
+ */
 public class Solution{
     public String longestPalindrome(String s){
         int n = s.length();
